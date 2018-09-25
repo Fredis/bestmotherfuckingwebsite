@@ -1,0 +1,88 @@
+body
+{
+	font-family: Arial;
+	color: #454545;
+	font-size: 1.0em;
+	text-align: justify;
+	max-width: 44%;
+	margin: auto;
+	margin-top: 55px;
+	margin-bottom: 40px;
+	border: 1px solid Black;
+}
+
+p
+{
+	font-size: 1.1em;
+	line-height: 1.4em;
+}
+
+
+h1
+{
+	font-size: 2.0em;
+}
+
+h2
+{
+	font-size: 1.6em;
+}
+
+h3
+{
+	font-size: 1.3em;
+}
+
+.motherfuckingwebsites
+{
+	color: #971717;
+}
+
+a
+{
+	color: #0077aa;
+}
+
+.miniText
+{
+	font-size:0.4em;
+}
+
+@keyframes animation {
+    from {color: red;}
+    to {color: yellow;}
+}
+
+.animationColor
+{
+	animation-name: animation;
+	animation-duration: 4s;
+}
+
+.boldStyle
+{
+	font-weight: bold;
+}
+
+ul
+{
+	font-size: 1.1em;
+	text-align: left;
+	line-height: 1.6em;
+}
+
+.still
+{
+	font-style: italic;
+}
+
+.police
+{
+    font-family: monospace;
+    font-size: 1.1em;
+}
+
+blockquote
+{
+	font-size: 1.2em;
+}
